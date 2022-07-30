@@ -1,0 +1,1 @@
+Con este repositorio busco concretar las habilidades conseguidas en el curso de fundación de Odin. Actualmente llevo 42% de los fundamentos básicos del desarrollo web, lo cual no parecerá mucho pero me ha dado lo suficiente para poder crear una página web de tipo Blog.
